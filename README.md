@@ -29,6 +29,3 @@ This repository contains a Power BI dashboard designed for analyzing product sal
 ### 4. Regional Profit Analysis
 * **Visual Type:** Column Chart
 * **Description:** Compares total profit across the five primary countries, showing a relatively balanced profit generation with slight variations between Canada, France, Germany, Mexico, and the US.
-
-## Reference
-For a visual preview of the dashboard, refer to the included image file: `Product Sales Data Analysis.jpg`.
